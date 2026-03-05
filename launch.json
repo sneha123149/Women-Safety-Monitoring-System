@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Weapon Detect (debug)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/weapon_detect.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  ]
+}
+

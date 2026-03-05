@@ -1,0 +1,6 @@
+2026-01-03 21:04:07 - 🚨 ALERT: Weapon detected (scissors (0.35)) with emotion 'fear'. Screenshot saved: weapon_alert_20260103_210405.jpg
+
+2026-01-03 21:04:21 - 🚨 ALERT: Weapon detected (scissors (0.44)) with emotion 'fear'. Screenshot saved: weapon_alert_20260103_210419.jpg
+
+2026-03-04 23:12:59 - 🚨 ALERT: Weapon detected (scissors (0.41)) with emotion 'fear'. Screenshot saved: weapon_alert_20260304_231257.jpg
+
